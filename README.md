@@ -22,7 +22,7 @@ PRNet is a lightweight yet powerful MLP-based framework designed to address two 
 
 ## Data Preparation
 
-1. **Download Datasets**: You can download the pre-processed multivariate datasets from this [Google Drive Link](https://drive.google.com/file/d/1bNbw1y8VYp-8pkRTqbjoW-TA-G8T0EQf/view).
+1. **Download Datasets**: You can download the multivariate datasets from this [Google Drive Link](https://drive.google.com/file/d/1bNbw1y8VYp-8pkRTqbjoW-TA-G8T0EQf/view).
 2. **Organization**: Create a directory named `./dataset/` in the root folder and place the downloaded files (e.g., ETTh1.csv, Weather.csv, PEMS04.npz, etc.) into it.
 
 ## Training & Reproduction
