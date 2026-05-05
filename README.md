@@ -30,7 +30,7 @@ PRNet is a lightweight yet powerful MLP-based framework designed to address two 
 We provide reproduction scripts for 12 multivariate datasets including the ETT series, Weather, Electricity, Traffic, Solar-Energy, and PEMS (03, 04, 07, 08).
 
 **Run a specific dataset (e.g., Electricity):**
-bash scripts/multivariate_forecast/Electricity.sh
+bash scripts/PRNet/electricity.sh
 
 **Run batch experiments:**
 bash run_main.sh
