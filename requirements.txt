@@ -1,0 +1,6 @@
+Python 3.12
+torch==2.7.0
+numpy
+matplotlib
+pandas
+scikit-learn
