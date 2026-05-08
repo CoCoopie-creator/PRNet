@@ -41,7 +41,7 @@ PRNet achieves State-of-the-Art (SOTA) performance on 9 out of 12 real-world dat
 
 ## Acknowledgements
 
-We gratefully acknowledge the following GitHub repositories for their valuable contributions to our research and codebase:
+We gratefully acknowledge the following GitHub repositories for their valuable contributions:
 
 - [TQNet](https://github.com/ACAT-SCUT/TQNet)
 - [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
