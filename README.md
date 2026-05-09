@@ -38,10 +38,3 @@ bash run_main.sh
 ## Performance
 
 PRNet achieves State-of-the-Art (SOTA) performance on 9 out of 12 real-world datasets across various predictive scales, outperforming various competitive Transformer-based and MLP-based baselines.
-
-## Acknowledgements
-
-We gratefully acknowledge the following GitHub repositories for their valuable contributions:
-
-- [TQNet](https://github.com/ACAT-SCUT/TQNet)
-- [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
